@@ -66,7 +66,7 @@
     "xterm-addon-web-links": "0.3.0",
     "xterm-addon-webgl": "0.7.0-beta.8",
     "yauzl": "^2.9.2",
-    "yazl": "^2.4.3"
+    "yazl": "^2.5.1"
   },
   "devDependencies": {
     "7zip": "0.0.6",
